@@ -1,0 +1,15 @@
+C:\Users\Pie\OneDrive\Desktop\Code\C#\MidTerm\bin\Debug\net6.0\MidTerm.exe
+C:\Users\Pie\OneDrive\Desktop\Code\C#\MidTerm\bin\Debug\net6.0\MidTerm.deps.json
+C:\Users\Pie\OneDrive\Desktop\Code\C#\MidTerm\bin\Debug\net6.0\MidTerm.runtimeconfig.json
+C:\Users\Pie\OneDrive\Desktop\Code\C#\MidTerm\bin\Debug\net6.0\MidTerm.dll
+C:\Users\Pie\OneDrive\Desktop\Code\C#\MidTerm\bin\Debug\net6.0\MidTerm.pdb
+C:\Users\Pie\OneDrive\Desktop\Code\C#\MidTerm\obj\Debug\net6.0\MidTerm.csproj.AssemblyReference.cache
+C:\Users\Pie\OneDrive\Desktop\Code\C#\MidTerm\obj\Debug\net6.0\MidTerm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pie\OneDrive\Desktop\Code\C#\MidTerm\obj\Debug\net6.0\MidTerm.AssemblyInfoInputs.cache
+C:\Users\Pie\OneDrive\Desktop\Code\C#\MidTerm\obj\Debug\net6.0\MidTerm.AssemblyInfo.cs
+C:\Users\Pie\OneDrive\Desktop\Code\C#\MidTerm\obj\Debug\net6.0\MidTerm.csproj.CoreCompileInputs.cache
+C:\Users\Pie\OneDrive\Desktop\Code\C#\MidTerm\obj\Debug\net6.0\MidTerm.dll
+C:\Users\Pie\OneDrive\Desktop\Code\C#\MidTerm\obj\Debug\net6.0\refint\MidTerm.dll
+C:\Users\Pie\OneDrive\Desktop\Code\C#\MidTerm\obj\Debug\net6.0\MidTerm.pdb
+C:\Users\Pie\OneDrive\Desktop\Code\C#\MidTerm\obj\Debug\net6.0\MidTerm.genruntimeconfig.cache
+C:\Users\Pie\OneDrive\Desktop\Code\C#\MidTerm\obj\Debug\net6.0\ref\MidTerm.dll
